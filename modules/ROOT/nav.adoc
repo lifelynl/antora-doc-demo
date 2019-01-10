@@ -7,3 +7,4 @@
 * xref:documentation/application/application.adoc[Application]
 ** xref:documentation/application/create.adoc[Create an application]
 ** xref:documentation/application/owner.adoc[Owner]
+* xref:documentation/video.adoc[video]
