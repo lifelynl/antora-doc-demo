@@ -17,7 +17,7 @@ video::rPQoq7ThGAU[youtube]
 video::video-file.mp4[]
 
 
-[source,javascript]
+[source,JSON]
 ----
 {
   "_embedded" : {
