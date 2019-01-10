@@ -1,19 +1,9 @@
-.Getting started
-* xref:inline-text-formatting.adoc[Basic Inline Text Formatting]
-* xref:special-characters.adoc[Special Characters & Symbols]
-* xref:admonition.adoc[Admonition]
-* xref:sidebar.adoc[Sidebar]
-* xref:ui-macros.adoc[UI Macros]
-* Lists
-** xref:lists/ordered-list.adoc[Ordered List]
-** xref:lists/unordered-list.adoc[Unordered List]
+.xref:getting-started/getting-started.adoc[Getting started]
+* xref:getting-started/introduction.adoc[Introduction]
+* xref:getting-started/support.adoc[Support]
 
-.Documentation
-* xref:inline-text-formatting.adoc[Basic Inline Text Formatting]
-* xref:special-characters.adoc[Special Characters & Symbols]
-* xref:admonition.adoc[Admonition]
-* xref:sidebar.adoc[Sidebar]
-* xref:ui-macros.adoc[UI Macros]
-* Lists
-** xref:lists/ordered-list.adoc[Ordered List]
-** xref:lists/unordered-list.adoc[Unordered List]
+.xref:documentation/documentation.adoc[Documentation]
+* xref:documentation/graph.adoc[Graph]
+* xref:documentation/application/application.adoc[Application]
+** xref:documentation/application/create.adoc[Create an application]
+** xref:documentation/application/owner.adoc[Owner]
