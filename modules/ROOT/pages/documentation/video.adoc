@@ -19,10 +19,34 @@ video::video-file.mp4[]
 
 [source,javascript]
 ----
-public class Person {
-  private String name;
-  public Person(String name) {
-    this.name = name;
-  }
+{
+  "_embedded" : {
+    "environments" : [ {
+      "description" : "environment",
+      "shortName" : "raboenv2",
+      "visibility" : "public",
+      "color" : null,
+      "name" : "raboenv2",
+      "uid" : "e11ee2dd976647109ca904dd8adc050f",
+      "_links" : {
+        "self" : {
+          "href" : "...",
+          "title" : "URI pointing to current request"
+        },
+        "environment" : {
+          "href" : "...",
+          "templated" : true,
+          "title" : "An environment"
+        },
+        "owners" : {
+          "href" : "...",
+          "title" : "The group responsible for this object"
+        },
+        "instance" : {
+          "href" : "...",
+          "title" : "An instance"
+        }
+      }
+    }
 }
 ----
