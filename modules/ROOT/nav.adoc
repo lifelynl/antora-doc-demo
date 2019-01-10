@@ -1,3 +1,4 @@
+.Getting started
 * xref:inline-text-formatting.adoc[Basic Inline Text Formatting]
 * xref:special-characters.adoc[Special Characters & Symbols]
 * xref:admonition.adoc[Admonition]
@@ -6,6 +7,13 @@
 * Lists
 ** xref:lists/ordered-list.adoc[Ordered List]
 ** xref:lists/unordered-list.adoc[Unordered List]
-* Lists 2
+
+.Documentation
+* xref:inline-text-formatting.adoc[Basic Inline Text Formatting]
+* xref:special-characters.adoc[Special Characters & Symbols]
+* xref:admonition.adoc[Admonition]
+* xref:sidebar.adoc[Sidebar]
+* xref:ui-macros.adoc[UI Macros]
+* Lists
 ** xref:lists/ordered-list.adoc[Ordered List]
 ** xref:lists/unordered-list.adoc[Unordered List]

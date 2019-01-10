@@ -1,9 +1,6 @@
 name: component-a
-title: Component Rick
+title: Axual
 version: 1.5.6
 start_page: ROOT:inline-text-formatting.adoc
 nav:
 - modules/ROOT/nav.adoc
-    title: Component 1
-- modules/ROOT/nav2.adoc
-    title: Component 2
